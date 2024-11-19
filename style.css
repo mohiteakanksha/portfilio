@@ -285,7 +285,11 @@ text-align: center;
 /*----our services section-----*/
 .sec3{
     position: relative;
+<<<<<<< HEAD
     height: 100vh;
+=======
+    height: auto;
+>>>>>>> ee1e171e6347eeb52bd03c74783bf60df7af8140
     width: 100%;
     display: flex;
     justify-content: space-evenly;
@@ -308,7 +312,11 @@ text-align: center;
     position: relative;
     height: auto;
     width: 90%;
+<<<<<<< HEAD
     display: flex;
+=======
+    display: grid;
+>>>>>>> ee1e171e6347eeb52bd03c74783bf60df7af8140
     grid-template-columns: repeat(auto-fill,minmax(40rem,1fr));
     grid-template-rows: minmax(10rem,auto);
     margin: 3rem;
